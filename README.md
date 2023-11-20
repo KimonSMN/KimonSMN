@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hi there, I'm Kimon Smirlianos! 👋
 
-<!--
-**KimonSMN/KimonSMN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm an undergraduate student at the University of Athens, diving into the world of software development with a focus on data structures. 
 
-Here are some ideas to get you started:
+### 🌱 Currently Learning
+- Data Structures & Algorithms
+- Programming languages like Python, Java, and C++
+- Software Development methodologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤝 Let's Connect
+Feel free to explore my repositories and connect with me! I'm always eager to collaborate and learn from others.
+
+[![GitHub](https://img.shields.io/github/followers/KimonSMN?label=Follow&style=social)](https://github.com/KimonSMN)
