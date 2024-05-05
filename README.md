@@ -5,7 +5,7 @@ I'm an undergraduate student at the University of Athens, diving into the world 
 
 ### 🌱 Currently Learning
 - Data Structures & Algorithms
-- Programming languages like Python, Java, and C++
+- Programming Languages: Python, Java, C, C++, SQL, HTML, CSS, JavaScript
 - Software Development methodologies
 
 ### 🤝 Let's Connect
