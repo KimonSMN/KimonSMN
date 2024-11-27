@@ -1,14 +1,19 @@
 # Hi there, I'm Kimon Smirlianos! 👋
 
-## About Me
-I'm an undergraduate student at the University of Athens, diving into the world of software development with a focus on data structures. 
+## 🚀 About Me
+I'm a Software developer, currently studying at the Kapodistrian University of Athens. 
 
-### 🌱 Currently Learning
-- Data Structures & Algorithms
-- Programming Languages: Python, Java, C, C++, SQL, HTML, CSS, JavaScript
-- Software Development methodologies
+## 🛠️ Skills & Interests
+- Languages & Tools: C, C++, Python, SQL, React, JavaScript
+- Interests: Machine learning, Operating system?, Game Development, Web developer
 
 ### 🤝 Let's Connect
-Feel free to explore my repositories and connect with me! I'm always eager to collaborate and learn from others.
+Feel free to explore my repositories  and see what I’ve been working on!
+
+## 🔗 Links
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kimon.smn/)
+[![GitHub](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kimon-smirlianos/
+)
 
 [![GitHub](https://img.shields.io/github/followers/KimonSMN?label=Follow&style=social)](https://github.com/KimonSMN)
+
